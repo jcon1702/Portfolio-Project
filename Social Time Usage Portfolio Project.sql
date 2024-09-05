@@ -37,6 +37,7 @@ select
 from avg_total_social_time atst 
 group by gender;
 
+
 -- AGE RELATED
 -- Age distribution by platform
 select 
